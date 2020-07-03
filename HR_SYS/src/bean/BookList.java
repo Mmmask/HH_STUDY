@@ -9,7 +9,7 @@ public class BookList extends LinkedList<Book> {
 
 }
 
-//这里集成LinkedList和ArrayList的区别是什么
+//这里继承LinkedList和ArrayList的区别是什么
 
 //public class BookList extends ArrayList<Book> {
 //
